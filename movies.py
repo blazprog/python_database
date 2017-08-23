@@ -10,10 +10,7 @@ from dbcreate import Table
 def create_table():
     db = sqlite3.Connection('dvd.db')
     s = os.path.join()
-    CREATE TABLE 
     s = 'mama'
-    
-
 
 def create_directors(db):
     ct = """
