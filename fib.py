@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Fibonacci:
     def __init__(self):
         self._values = ["котам", "почему-то", "говорять", "ты"]
